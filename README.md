@@ -20,7 +20,7 @@
 
 # 💻 Sobre o Projeto
 Neste projeto foi utilizado um agente:
-- Na qual era voltado para **entrevista de desenolvimento pessoal e carreira.**    
+- Na qual era voltado para **entrevista de desenvolvimento pessoal e carreira.**    
 
 O **Copilot** foi utilizado para estruturar e organizar este projeto. É apresentado o meu Mapa de Habilidades, desenvolvido em três etapas: inventário de habilidades, cruzamento com necessidades do mercado e caminhos de monetização.
 
